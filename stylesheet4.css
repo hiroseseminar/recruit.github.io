@@ -23,7 +23,7 @@ a {
 .top-wrapper {
 
   background-image: url(https://hiroseseminar.github.io/recruit.github.io/gate.jpg);
-  background-size: cover;
+  background-size: contain;
 　text-align: center;
 }
 .opacity{
