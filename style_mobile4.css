@@ -1,5 +1,12 @@
 @media screen and (max-width: 769px) {
-
+.stairbook {
+  width: 210px;
+margin-top: 14px;
+}
+  .greenback {
+  width: 210px;
+margin-top: 14px;
+}
   img{
   max-width: 100%;
   height: auto;
